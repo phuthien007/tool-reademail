@@ -2,11 +2,10 @@ export const API_URL_OAUTH2 = "https://oauth2.googleapis.com";
 export const API_URL = "https://www.googleapis.com";
 
 // REQUIRE
-export const REFRESH_TOKEN =
-  "1//040xaGkV6h2p5CgYIARAAGAQSNwF-L9IrpV92jGj-HGr0UsElaQ-BXnohRsg58UfLHNM_kA6SZ6c4dBq9dROOqdJz-iBxAe79O1A";
+export const REFRESH_TOKEN = "";
 
 // REQUIRE
-export const sender = "w3.hieunt@gmail.com";
+export const sender = "@gmail.com";
 
 // contain key to identify email
 // REQUIRE
